@@ -108,3 +108,18 @@ dmypy.json
 .pyre/
 
 # End of https://www.gitignore.io/api/python
+
+.venv/Scripts/Activate.ps1
+.venv/Scripts/activate
+.venv/Scripts/activate.bat
+.venv/Scripts/deactivate.bat
+.venv/Scripts/easy_install-3.8.exe
+.venv/Scripts/easy_install.exe
+.venv/Scripts/pip.exe
+.venv/Scripts/pip3.8.exe
+.venv/Scripts/pip3.exe
+.venv/Scripts/python.exe
+.venv/Scripts/python_d.exe
+.venv/Scripts/pythonw.exe
+.venv/Scripts/pythonw_d.exe
+
