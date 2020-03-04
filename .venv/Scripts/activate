@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\s-013-24.GUMIFOREST\Desktop\KW\CeneoScraper11S\.venv"
+VIRTUAL_ENV="C:\Users\s-013-23.GUMIFOREST.000.001.002.003.004.005.006.007\Desktop\Nowy folder\CeneoScraper11S\.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
